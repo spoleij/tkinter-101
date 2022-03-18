@@ -37,17 +37,4 @@ label = tkinter.Label(window)
 label.configure(textvariable=stringVar, bg='yellow', font=("Comic Sans MS", 15))
 label.pack()
 
-
-    
-
-
-
-
-
-
-
-
-
-
-
 window.mainloop()
